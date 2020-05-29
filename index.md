@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## No Cops In DSA
 
-You can use the [editor on GitHub](https://github.com/dsa-lsc/nocopsindsa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+To the National Political Committee of DSA:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are calling on you to consider Resolution 11 - DSA Law Enforcement Exclusion, which was unable to reach the floor during the 2019 DSA National Convention. As current and historical events have shown, police are fundamentally incompatible with the goals of a socialist organization such as DSA. Our goal, as socialists, is to abolish private property and seize the means of production, while the primary function of the police is to control society - , specifically the working class and people of color, and the protection of private property. Collaboration with police or their supporters is antithetical to everything DSA stands for and does not represent the interests of the working class as a whole.  
 
-### Markdown
+As socialists, we are fighting for a more just world. Part of achieving that goal is stating clearly that the police, prisons, prosecution, and all aspects of the carceral state as they exist today cannot be reformed and must be abolished. These systems rely on, reinforce, and perpetuate the structures of white supremacy, patriarchy, xenophobia, ableism in order to enable capitalism. We, the undersigned members of DSA, call on you to use your power to enact Resolution 11 and forbid police, police organizers, and any member who seeks to uphold the oppressive capitalist police state.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Resolution 11 states:
+Therefore be it resolved, employment as a Law Enforcement Officer is in opposition to the principles of the organization as outlined in the DSA Constitution Article II. Persons employed as Law Enforcement Officers are therefore excluded from membership in DSA.
 
-```markdown
-Syntax highlighted code block
+## [Click here to send an email to the NPC showing your support](mailto:npc@dsasa.org?subject=Pass%20Resolution%2011%20Now!?body=To+the+National+Political+Committee+of+DSA%3A%0D%0A%0D%0AWe+are+calling+on+you+to+consider+Resolution+11+-+DSA+Law+Enforcement+Exclusion%2C+which+was+unable+to+reach+the+floor+during+the+2019+DSA+National+Convention.+As+current+and+historical+events+have+shown%2C+police+are+fundamentally+incompatible+with+the+goals+of+a+socialist+organization+such+as+DSA.+Our+goal%2C+as+socialists%2C+is+to+abolish+private+property+and+seize+the+means+of+production%2C+while+the+primary+function+of+the+police+is+to+control+society+-+%2C+specifically+the+working+class+and+people+of+color%2C+and+the+protection+of+private+property.+Collaboration+with+police+or+their+supporters+is+antithetical+to+everything+DSA+stands+for+and+does+not+represent+the+interests+of+the+working+class+as+a+whole.++%0D%0A%0D%0AAs+socialists%2C+we+are+fighting+for+a+more+just+world.+Part+of+achieving+that+goal+is+stating+clearly+that+the+police%2C+prisons%2C+prosecution%2C+and+all+aspects+of+the+carceral+state+as+they+exist+today+cannot+be+reformed+and+must+be+abolished.+These+systems+rely+on%2C+reinforce%2C+and+perpetuate+the+structures+of+white+supremacy%2C+patriarchy%2C+xenophobia%2C+ableism+in+order+to+enable+capitalism.+We%2C+the+undersigned+members+of+DSA%2C+call+on+you+to+use+your+power+to+enact+Resolution+11+and+forbid+police%2C+police+organizers%2C+and+any+member+who+seeks+to+uphold+the+oppressive+capitalist+police+state.++%0D%0A%0D%0AResolution+11+states%3A%0D%0ATherefore+be+it+resolved%2C+employment+as+a+Law+Enforcement+Officer+is+in+opposition+to+the+principles+of+the+organization+as+outlined+in+the+DSA+Constitution+Article+II.+Persons+employed+as+Law+Enforcement+Officers+are+therefore+excluded+from+membership+in+DSA.)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsa-lsc/nocopsindsa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Note: if that link doesn't work for you, copy and paste the text above and email it to npc@dsausa.org
